@@ -9,7 +9,7 @@
 ![alt text](https://github.com/eanndale/Binary-Numbers-App-Screenshots/blob/master/go-button.png)
 ![alt text](https://github.com/eanndale/Binary-Numbers-App-Screenshots/blob/master/screen.png)
 ![alt text](https://github.com/eanndale/Binary-Numbers-App-Screenshots/blob/master/correct-answer.png)
-![alt text](htps://github.com/eanndale/Binary-Numbers-App-Screenshots/blob/master/wrong-answer.png)
+![alt text](https://github.com/eanndale/Binary-Numbers-App-Screenshots/blob/master/wrong-answer.png)
 ![alt text](https://github.com/eanndale/Binary-Numbers-App-Screenshots/blob/master/end-screen.png)
 
 
