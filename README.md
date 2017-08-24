@@ -6,6 +6,6 @@
 #### /app/src/main/java/com/example/libby/brainteaser/MainActivity.java
 
 ## Screenshots
-![alt text](https://github.com/eanndale/Binary-Numbers-App-Screenshots/blob/master/rsz_1go-button.png)
+![alt text](https://github.com/eanndale/Binary-Numbers-App-Screenshots/blob/master/rsz_1rsz_1go-button.png)
 
 
